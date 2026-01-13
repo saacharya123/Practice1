@@ -1,0 +1,5 @@
+In the master_2 branch, create a backend route named /submittodoitem.
+This route will:
+Accept itemName and itemDescription via a POST request.
+Store these details in a MongoDB database.
+
